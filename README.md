@@ -1,2 +1,1 @@
-# LinkedLists_ArrayLists
-COIS 2020H Assignment 1 
+# COIS 2020H: Data Structures and Algorithms
